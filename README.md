@@ -1,4 +1,4 @@
 # mmcot
-Multimodal Chain-of-Thought
+V-Reasoner: Multimodal Chain-of-Thought
 # add some  changes
 <!-- add some new changes -->
